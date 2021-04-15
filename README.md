@@ -1,4 +1,4 @@
-# SimonGame
+# Simon Says Game
 
 The purpose of this site was to practice DOM manipulation and game logic. 
 
